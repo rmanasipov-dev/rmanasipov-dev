@@ -1,1 +1,3 @@
-💼 Professional account — visit [@rmanasipov](https://github.com/rmanasipov) for personal projects & open source
+💼 Professional account.
+
+For personal projects & open source, visit [@rmanasipov](https://github.com/rmanasipov)
